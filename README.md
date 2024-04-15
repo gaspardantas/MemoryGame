@@ -5,7 +5,7 @@ Memory games are addictive and serve as recreational activities or educational t
 
 HTML Structure defines the game's layout and content with headings for title and statistics, a grid for cards, and navigation buttons. CSS Styling enhances visuals with grid layout, background images, and button styles. JavaScript Logic powers the game, managing card data, shuffling, flipping, scoring, and game state control, including restart functionality.
 
-The game features 16 cards, 4 rows of 4. Players flip two cards to reveal their images. Matching pairs will be blanked, while unmatched cards will flip back. It tracks correct matches and attempts, ending when all pairs are found, displaying the player's performance.
+The game features 16 cards with emoji images, 4 rows of 4. Players flip two cards to reveal their images. Matching pairs will be blanked, while unmatched cards will flip back. It tracks correct matches and attempts, ending when all pairs are found, displaying the player's performance.
 
 Step into the immersive world of memory challenges with our captivating game! Within the confines of 16 cards arranged neatly in 4 rows of 4, players embark on a quest to match pairs and unveil hidden images. With each turn, two cards are flipped, revealing their secrets. A successful match results in the cards being blanked, while unmatched cards gracefully flip back, reminding players for their mistake.
 
