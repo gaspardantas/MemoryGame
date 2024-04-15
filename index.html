@@ -4,56 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Memory Game</title>
-    <style>
-      #grid {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr); /* 4 columns */
-        grid-template-rows: repeat(4, 1fr); /* 4 rows */
-        gap: 5px;
-        width: 520px; /* Adjusted width to accommodate grid gap and borders */
-        height: 520px; /* Adjusted height to accommodate grid gap and borders */
-        overflow: auto; /* Enable scrolling if grid exceeds container */
-      }
-      .grid-cell {
-        width: 100%;
-        height: 100%;
-        background-color: #ddd;
-      }
-      /* Style the Go Back button */
-      button {
-        display: inline-block;
-        background-color: #6bafe4;
-        color: #fff;
-        border: none;
-        padding: 10px 20px;
-        font-size: 18px;
-        margin: 5px;
-        cursor: pointer;
-        border-radius: 5px;
-        transition: background-color 0.3s ease;
-      }
-      button:hover {
-        background-color: #6255e8;
-      }
-      img {
-        max-width: 100%;
-        height: auto;
-      }
-      body {
-        background-image: url("memory.png");
-        background-size: 100% 100%; /* Stretch the background image to cover the entire background */
-        height: 100vh; /* Make the background cover the entire viewport height */
-        justify-content: center; /* Center horizontally */
-        align-items: center; /* Center vertically */
-        background-position: center;
-        background-repeat: no-repeat;
-        color: white; /* Set the text color to white */
-      }
-      body {
-        background-color: black;
-        /* Other styles */
-      }
-    </style>
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body style="background-color: black">
     <!-- Game Header -->
@@ -68,9 +19,7 @@
     <!-- Restart Game Button -->
     <button onclick="restartGame()">Restart Game</button>
 
-    <!-- JavaScript Logic -->
-    <script>
-      // JavaScript code goes here
-    </script>
+    <!-- JavaScript file link -->
+    <script src="scripts.js"></script>
   </body>
 </html>
