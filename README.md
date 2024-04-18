@@ -14,4 +14,4 @@ As the game progresses, it diligently tracks the player's correct matches and at
 The game has been seamlessly integrated into an S3 bucket, offering it as a static website for public enjoyment. Dive into the fun-filled world of memory challenges by visiting [this link](http://gdmemorygame.s3-website-us-east-1.amazonaws.com/) and immersing yourself in the excitement firsthand!
 
 Get a sneak peek into the captivating world of our game with this preview image!
-<img width="1151" alt="Screenshot 2024-04-15 at 4 30 47 PM" src="https://github.com/gaspardantas/memoryFood/assets/106454643/7ce9e821-be03-4177-8dd1-bd67e1336147">
+<img width="2160" alt="Screenshot 2024-04-18 at 7 40 16 PM" src="https://github.com/gaspardantas/memoryFood/assets/106454643/c3f2767f-1ccf-4444-b1f5-45e7b0ac526d">
